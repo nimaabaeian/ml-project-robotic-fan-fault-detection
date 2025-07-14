@@ -63,8 +63,7 @@ Three distinct configurations were created:
   - **Support Vector Machine (SVM)** (with `GridSearchCV` tuning)  
 - Compare models using:
   - Confusion Matrices  
-  - Macro F1 Score  
-  - Mean Absolute Error (MAE)  
+  - Macro F1 Score   
 - Visualize key performance insights
 
 ---
